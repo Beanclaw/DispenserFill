@@ -1,0 +1,10 @@
+name: DispenserFill
+main: me.beanclaw.dispenserfill.DispenserFill
+version: 1.0
+author: Beanclaw
+commands:
+  fill:
+    description: Fill nearby dispensers with the item in your hand.
+permissions:
+  dispenserfill.fill:
+    description: Access to the /fill command.
