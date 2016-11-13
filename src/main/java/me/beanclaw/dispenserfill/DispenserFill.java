@@ -42,7 +42,8 @@ public class DispenserFill extends JavaPlugin {
                         if (location.getBlock().getState() instanceof Dispenser) {
                             Dispenser dispenser = (Dispenser) location.getBlock().getState();
 
-                            if (dispenser.getInventory().addItem(new ItemStack(player.getItemInHand().getType(), 1)).isEmpty()) {
+                            if (dispenser.getInventory().addItem(new
+                                    ItemStack(player.getItemInHand().getType(), 1)).isEmpty()) {
                                 x--;
                                 dispenser.update(true, true);
                                 player.getItemInHand().setAmount(x);
