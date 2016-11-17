@@ -1,4 +1,4 @@
-package me.beanclaw.dispenserfill;
+package me.slackmacs.dispenserfill;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Material;

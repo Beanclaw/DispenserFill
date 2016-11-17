@@ -1,7 +1,7 @@
 name: DispenserFill
-main: me.beanclaw.dispenserfill.DispenserFill
+main: me.slackmacs.dispenserfill.DispenserFill
 version: 1.0
-author: Beanclaw
+author: slackmacs
 commands:
   fill:
     description: Fill nearby dispensers with the item in your hand.
