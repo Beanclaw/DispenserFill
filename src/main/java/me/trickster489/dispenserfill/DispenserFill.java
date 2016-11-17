@@ -1,4 +1,4 @@
-package me.slackmacs.dispenserfill;
+package me.trickster489.dispenserfill;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
